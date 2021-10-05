@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // Look at the number of likes on line 26. Right now it's hard coded to '100'.
 // Use a piece of data coming in through props to display the correct number of likes.
 // You will also add an onClick handler that utilizes `likePost` to increase the count of likes.

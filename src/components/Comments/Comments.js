@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import Comment from './Comment';
 import './Comments.css';
